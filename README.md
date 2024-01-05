@@ -1,13 +1,27 @@
-<h1 align="center">Hey there! 👋 welcome...</h1>
-<h3 align="center">I am a Software Developer from Venezuela with more than 2 years of experience in the field of front-end development. Great understanding of HTML, CSS and JavaScript, proficient in frameworks like Vue.js. Experience working with back-end developers to build full-stack applications.</h3>
+<div align="center">
+<h1 align="center">Hi, I am <a href="https://github.com/Retro0w0">Arnaldo</a> 🦊</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 
-- 🔭 I’m currently working on **Goddito App**
+## About me
 
-- 🌱 I’m currently learning **Backend as a Service**
+- 🎓 Computer Engineer 🎓 
+- 🖥️ Web Developer
+- 💪 + 2 years experience in PWA Comercial Mobile Developmen
+- ✏️ Continuous learning
+- ✉️ Freelance Worker
+<br>
 
-- 💬 Ask me about any topic.
 
-- ⚡ I am a furry... I'm sorry :p
+<br>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
