@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I am <a href="https://github.com/Retro0w0">Arnaldo</a> 🦊</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://media.discordapp.net/attachments/1184434755786260560/1192654634569961522/banner1.png?ex=65a9dd2f&is=6597682f&hm=48c6a58474df8d410a53f8cfb2681858532cf30aaa7065950d6c882df81cd6ea&=&format=webp&quality=lossless&width=1440&height=577">
 
 ## About me
 
